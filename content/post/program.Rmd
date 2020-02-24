@@ -24,7 +24,7 @@ share: yes
 
 ---
 
-##### <span style="color:darkblue">The event is free, but registration is required by [filling this form 👉📄](https://docs.google.com/forms/d/1NtyhRMDZkcyU9AsEXWIq-M5OVWzs1JEwaybx4JI1IPU/edit?ts=5e50f8e4)</span>
+##### <span style="color:blue">The event is free, but registration is required by [filling this form 👉📄](https://docs.google.com/forms/d/1NtyhRMDZkcyU9AsEXWIq-M5OVWzs1JEwaybx4JI1IPU/edit?ts=5e50f8e4)</span>
 
 ---
 
