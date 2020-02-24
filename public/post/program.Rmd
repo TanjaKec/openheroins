@@ -32,13 +32,13 @@ Our aim is to fully democratise Open Data, we believe that Open Data portals sho
 
 [Sister Analyst](https://sisteranalyst.org) is delivering the Open Data Challenge workshop in Belgrade - a workshop which aims to provide an insightful overview of the data democracy process. Only by creating a working understanding of the processes and procedures involved with data analytics is it possible to create the objective of democratic data literacy. Through the use of free open source data analysis software packages as R and GitHub it is possible to build an understanding of the systems involved in analysing data and the knowledge to make it usable. 
 
-Participants in the workshop will be introduced to different ways of accessing Open Data and will be able to engage in the necessary steps of wrangling and preparation of data for analysis. As such, they'll be given the opportunity to familiarise themselves with typical tools used in a data analysis processes. They will also be able to learn how to communicate the results in a transparent and engaging way by creating dynamic documents and info graphics. Additionally, all the participants will be instructed to the Open Data Challenge platform where they can find the material and learn further to create a free hosting website for the resulting blog posts of their data analysis narratives using HUGO and blogdown.
+Participants in the workshop will be introduced to different ways of accessing Open Data and will be able to engage in the necessary steps of wrangling and preparation of data for analysis. As such, they'll be given the opportunity to familiarise themselves with typical tools used in a data analysis processes. All of this will be illustrated through an example of working with air quality data, which has been a focal point of recent discussions of many Serbian citizens. The participants will also be able to learn how to communicate the results in a transparent and engaging way by creating dynamic documents and info graphics. Additionally, all the participants will be instructed to the Open Data Challenge platform where they can find the material and learn further to create a free hosting website for the resulting blog posts of their data analysis narratives using HUGO and blogdown.
 
 > **Agenda:**
 > 
 > - **5:00pm** -- Doors open and refreshments
 > - **5:15pm** -- Welcome to Open Data Challenge Workshop: Introduction, Announcements
-> - **5:20pm** -- Workshop
+> - **5:20pm** -- Workshop: Air Quality Case Study 
 > - **7:30pm** -- Hang around: drinks, pizza and a chance to chat
 > - **8:00pm** -- End
 
@@ -47,8 +47,8 @@ We would love you to come and join us, bring a friend or two and share your thou
 All welcome!
 
 We are looking forward to seeing you all…
-
 ---
 
-##### Thanks to [Open Heroines](https://openheroines.org) and [AFA](https://www.afa.co.rs) for making this event possible.
+
+##### Thanks to [Open Heroines](https://openheroines.org) and [AFA](https://www.afa.co.rs) for making this event possible and to [BeoPlace](ahttps://beoplace.space) for logo design and illustrations.
 
