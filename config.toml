@@ -1,0 +1,24 @@
+theme = "hugo-theme-air"
+baseURL = "https://ohsa.netlify.com/"
+languageCode = "en-us"
+title = "Open Heroins"
+
+[author]
+  name = "Tatjana Kecojevic"
+
+[params]
+  description = "open data challenge workshop"
+  cover = "images/user.jpg"
+  author = "Tatjana Kecojevic"
+  authorlocation = ""
+  authorwebsite = "https://sisteranalyst.org"
+  bio= "my bio"
+  logo = "images/user.png"
+  googleAnalyticsUserID = ""
+  # Optional RSS-Link, if not provided it defaults to the standard index.xml
+  RSSLink = ""
+  githubName = "SisterAnalyst"
+  twitterName = "@SisterAnalyst"
+  # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
+  hideHUGOSupport = false
+  mainSections = ["post"]

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sister analyst on Open Heroins</title>
+    <link>/tags/sister-analyst/</link>
+    <description>Recent content in sister analyst on Open Heroins</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 24 Feb 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/sister-analyst/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About the Workshop</title>
+      <link>/post/programme/</link>
+      <pubDate>Mon, 24 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/programme/</guid>
+      <description>SisterAnalyst is pleased to announce our Open Data challenge workshop, in partnership with the Open Heroines initiative - a visible platform for women to express their thoughts, ideas and critiques.
+When: Monday, March 09, 2020 5:00 PM to 8:00 PM
+Where: AFA, Gospodar Jovanova 2 11000 Belgrade, Serbia
+The event is free, but registration is required by filling this form 👉📄 Our aim is to fully democratise open data, we believe that Open Data portals should not simply focus on just providing data.</description>
+    </item>
+    
+  </channel>
+</rss>
