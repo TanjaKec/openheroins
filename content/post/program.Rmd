@@ -6,8 +6,8 @@ slug: programme
 categories: []
 tags:
   - SisterAnalyst
-  - ds
-  - OpenData
+  - opendataday2020
+  - openheroines
 comments: yes
 image: ''
 menu: ''
