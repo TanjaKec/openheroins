@@ -16,17 +16,13 @@ share: yes
 
 [SisterAnalyst](https://sisteranalyst.org) is pleased to announce our Open Data Challenge Workshop, in partnership with the [Open Heroines](https://openheroines.org/) initiative -  a visible platform for women to express their thoughts, ideas and critiques. 
 
-**When**: Monday, March 09, 2020
+**When**: Monday, March 09, 2020; 
 5:00 PM to 8:00 PM
 
-**Where**: [AFA](https://www.afa.co.rs), Gospodar Jovanova 2
-11000 Belgrade, Serbia
+**Where**: [AFA](https://www.afa.co.rs), [Gospodar Jovanova 2,
+11000 Belgrade, Serbia](https://www.google.com/maps/place/%D0%93%D0%BE%D1%81%D0%BF%D0%BE%D0%B4%D0%B0%D1%80+%D0%88%D0%BE%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%B0+2,+%D0%91%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D0%B4/@44.8236908,20.4535965,17z/data=!3m1!4b1!4m5!3m4!1s0x475a654a15577dd1:0x73c31f62a0c8f588!8m2!3d44.8236908!4d20.4557852?hl=sr)
 
----
-
-##### <span style="color:dodgerblue">The event is free, but registration is required by [filling this form 👉📄](https://docs.google.com/forms/d/1NtyhRMDZkcyU9AsEXWIq-M5OVWzs1JEwaybx4JI1IPU/edit?ts=5e50f8e4)</span>
-
----
+> ##### <span style="color:dodgerblue">The event is free, but registration is required by [filling this form 👉📄](https://docs.google.com/forms/d/1NtyhRMDZkcyU9AsEXWIq-M5OVWzs1JEwaybx4JI1IPU/edit?ts=5e50f8e4)</span>
 
 Our aim is to fully democratise Open Data, we believe that Open Data portals should not simply focus on just providing data. Ideally, they should serve as platforms that harvest open and available knowledge and additionally provide educational resources that enrich the potential of the available data. 
 
@@ -47,8 +43,9 @@ We would love you to come and join us, bring a friend or two and share your thou
 All welcome!
 
 We are looking forward to seeing you all…
+
 ---
 
+###### Thanks to [Open Heroines](https://openheroines.org) and [AFA](https://www.afa.co.rs) for making this event possible and to [BeoPlace](ahttps://beoplace.space) for logo design and illustrations.
 
-##### Thanks to [Open Heroines](https://openheroines.org) and [AFA](https://www.afa.co.rs) for making this event possible and to [BeoPlace](ahttps://beoplace.space) for logo design and illustrations.
-
+---
