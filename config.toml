@@ -6,6 +6,12 @@ title = "Open Heroines"
 [author]
   name = "Tatjana Kecojevic"
 
+[[menu.main]]
+    name = "Blog"
+    pre = "fa-book"
+    url = "/Blog/"
+    weight = 1
+
 [params]
   description = "open data challenge workshop"
   cover = "images/user.jpg"
